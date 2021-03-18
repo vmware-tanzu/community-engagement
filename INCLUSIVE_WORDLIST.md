@@ -1,10 +1,12 @@
 
+# Inclusive word list
+
 In our continued efforts to build inclusive communities and software, we recommend the following words be avoided in all projects.
 
 This list should be considered a living artifact, if you have suggestions on words we should consider adding, pleases open an issue. Where possible, we follow the recommendation and processes of the CNCF [Inclusive Naming Initiative](https://inclusivenaming.org/).
 
 | Word        | Recommendations         |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| 
 |abort        | stop (v), cancel (v), halt prematurely (v), end prematurely (v), stop prematurely (v) |
 | black hat   | unethical (adj) |
 | blacklist   | denylist (n), block (v), banned list (n), deny (v), ban (v)   |
