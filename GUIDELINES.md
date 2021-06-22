@@ -2,7 +2,7 @@
 
 > **Required within the VMware Tanzu GitHub Organization**
 
-The below document complements VMware's Open Source Guidelines and provides a checklist of what is needed by each open source project to be set up for healthy community engagement. A more robust explanation can be found in our [Community Engagement Strategy](STRATEGY.md).
+The below document complements VMware's Open Source Guidelines and provides a checklist of what is needed by each open source project to be set up for healthy community engagement.
 
 ## Share Knowledge
 
