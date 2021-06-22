@@ -1,8 +1,8 @@
-# Checklist: Getting started with Community Engagement for Open Source projects
+# Guidelines: Getting started with Community Engagement for Open Source projects
 
 > **Required within the VMware Tanzu GitHub Organization**
 
-The below document complements VMware's Open Source Guidelines and provides a checklist of what is needed by each open source project to be set up for healthy community engagement. A more robust explanation can be found in the our [Community Engagement Strategy](STRATEGY.md).
+The below document complements VMware's Open Source Guidelines and provides a checklist of what is needed by each open source project to be set up for healthy community engagement. A more robust explanation can be found in our [Community Engagement Strategy](STRATEGY.md).
 
 ## Share Knowledge
 
@@ -36,7 +36,7 @@ The below document complements VMware's Open Source Guidelines and provides a ch
 
 1. In the repositories, there needs to be an MAINTAINERS file that lists all maintainers of the project, and potential stakeholders ([EXAMPLE](https://github.com/goharbor/community/blob/master/MAINTAINERS.md)).
 
-1. Document who owns key roles in each project, and include that in  MAINTAINERS ([EXAMPLE 1](https://github.com/vmware-tanzu/velero/blob/main/MAINTAINERS.md) and [EXAMPLE 2](https://github.com/goharbor/community/blob/master/MAINTAINERS.md)), or have them listed on the project landing page ([EXAMPLE](https://carvel.dev/)).
+1. Document who owns key roles in each project, and include that in MAINTAINERS ([EXAMPLE 1](https://github.com/vmware-tanzu/velero/blob/main/MAINTAINERS.md) and [EXAMPLE 2](https://github.com/goharbor/community/blob/master/MAINTAINERS.md)), or have them listed on the project landing page ([EXAMPLE](https://carvel.dev/)).
 
 1. Create sample issue templates to ensure predictable triaging of bugs, features and support issues  ([EXAMPLE 1](https://github.com/vmware-tanzu/sonobuoy/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) and [EXAMPLE 2](https://github.com/vmware-tanzu/velero/blob/master/.github/ISSUE_TEMPLATE/feature-enhancement-request.md)).
 
