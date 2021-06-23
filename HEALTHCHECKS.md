@@ -100,7 +100,7 @@ We have an [example sheet](HEALTHCHECK-SHEET.md) available that you can use to t
 1. Research the current state of the project by 
     1. Reviewing the previous Advice and Comments to see if progress has been made
     1. Talking to the project engineering leads
-    1. Any metric graded below **Working Well** should have **Advice or Comments** filled in with your reasoning.
+    1. Any metric graded below **Working Well** should have **Advice or Notes** filled in with your reasoning.
 1. Once you have reviewed each metric, schedule a meeting with the engineering leads of the project to go over your findings. 
 1. Create a presentation of your findings
     1. This presentation should capture the key takeaways and potential action items from your evaluation of the project and discussions with project lead(s).
