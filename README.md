@@ -3,15 +3,26 @@
 The purpose of this repository is to publish the Tanzu Community Engagement
 guidelines, community health measurements, and goals.
 
+## Using the information in this repo
+
+We use these documents during the planning phase of open sourcing a new
+project, and during our community engagement health checks.
+
+We hope these documents can be useful for the wider open source community,
+as you start out new projects or want to improve already existing ones.
+
 The flow of information goes:
 
-1. [CHECKLIST](CHECKLIST.md)
-1. [HEALTHCHECKS](HEALTHCHECKS.md)
+1. [GUIDELINES](GUIDELINES.md), used for planning and implementation of 
+documentation, processes, and communication platforms for our open source
+projects.
+
+1. [HEALTHCHECKS](HEALTHCHECKS.md), used twice yearly to see what community
+engagement improvements should be made in the near future.
 
 ## Code of Conduct
 
 We use the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-This code of conduct applies to the our community at large (Slack, mailing lists, Twitter, etc.).
 
 ## License
 
