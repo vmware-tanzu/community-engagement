@@ -3,7 +3,7 @@
 
 In our continued efforts to build inclusive communities and software, we recommend the following words be avoided in all projects.
 
-This list should be considered a living artifact, if you have suggestions on words we should consider adding, pleases open an issue. Where possible, we follow the recommendation and processes of the CNCF [Inclusive Naming Initiative](https://inclusivenaming.org/).
+This list should be considered a living artifact, if you have suggestions on words we should consider adding, pleases open an issue. This list is built upon VMware’s own internal inclusive terminology as well as that of the [Inclusive Naming Initiative](https://inclusivenaming.org/).
 
 | Word                                                                  |                                                              Recommendations                                                              |
 | --------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |

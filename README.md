@@ -20,6 +20,13 @@ projects.
 1. [HEALTHCHECKS](HEALTHCHECKS.md), used twice yearly to see what community
 engagement improvements should be made in the near future.
 
+## Further reading
+
+Within this repository we also keep the following:
+
+- [Inclusive terminology](INCLUSIVE_TERMINOLOGY.md) details and a [Vale](https://docs.errata.ai/vale/about) implementation
+- [Security policy template](SECURITY.md), to be modified and added to each project
+
 ## Code of Conduct
 
 We use the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
