@@ -10,7 +10,7 @@ The below document complements VMware's Open Source Guidelines and provides a ch
 
 1. Add Code of Conduct that you receive from OSPO.
 
-1. Have a clear “Getting started” guide, for both [users](https://velero.io/docs/v1.5.0/basic-install/) and [contributors](https://velero.io/docs/v1.5.0/start-contributing/).
+1. Have a clear “Getting started” guide, for both [users](https://velero.io/docs/v1.6/basic-install/) and [contributors](https://velero.io/docs/v1.6/start-contributing/).
 
 1. Design and architecture documents should be made available to help users and contributors understand the underpinnings of the project ([EXAMPLE](https://github.com/vmware-tanzu/antrea/blob/main/docs/design/architecture.md)).
 
