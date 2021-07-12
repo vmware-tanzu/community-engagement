@@ -4,7 +4,7 @@
 
 The below document complements VMware's Open Source Guidelines and provides a checklist of what is needed by each open source project to be set up for healthy community engagement.
 
-## Share Knowledge
+## 1. Share Knowledge
 
 1. The project README should be simple, focused, and mostly bullet item listed with steps to get up and running quickly. The README or landing page should include a project statement (what is does, why it’s important, and how it works), a list of features, screenshots (if a graphical UI exists), contribution guidelines, code of conduct, and links to relevant outside sources. ([EXAMPLE](https://gist.github.com/jonasrosland/8bf2e270887aa8514a19fd55335e9915)).
 
@@ -52,7 +52,7 @@ The below document complements VMware's Open Source Guidelines and provides a ch
 
 1. Use inclusive terminology throughout your project and docs. For example, the default branch in Github should be `main` instead of `master`. Refer to the inclusive terminology list for more examples.
 
-## Build and Increase our credibility
+## 3. Build and Increase our credibility
 
 1. Deliver on features that are set in the roadmap - stay focused.
 
@@ -60,7 +60,7 @@ The below document complements VMware's Open Source Guidelines and provides a ch
 
 1. Be public and be seen, by writing blog posts, speaking at events, hosting open community calls, engaging with the community on Slack, being a part of podcasts, or hosting IRL Community Meetings.
 
-## Engage with users and contributors
+## 4. Engage with users and contributors
 
 1. When getting users who want to publicly state that they are using your project, utilize an ADOPTERS file ([EXAMPLE](https://github.com/vmware-tanzu/velero/blob/main/ADOPTERS.md)).
 
@@ -76,7 +76,7 @@ The below document complements VMware's Open Source Guidelines and provides a ch
 
 1. Submit CFPs and be active at relevant conferences, events, and meetups - there is more we can do than just be speakers, for example lead live community meetings, workshops, and code jams at these events.
 
-## Evolve perception of VMware
+## 5. Evolve perception of VMware
 
 1. Ensure a complementary presence in existing communities such as Kubernetes Special Interest Groups (SIGs) and Working Groups (WG).
 
