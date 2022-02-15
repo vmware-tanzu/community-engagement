@@ -26,6 +26,7 @@ Within this repository we also keep the following:
 
 - [Inclusive terminology](INCLUSIVE_TERMINOLOGY.md) details and a [Vale](https://docs.errata.ai/vale/about) implementation
 - [Security policy template](SECURITY.md), to be modified and added to each project
+- [A "shoutouter" program](shoutouter/README.md) to generate reports on contributions from non-VMware community members
 
 ## Code of Conduct
 

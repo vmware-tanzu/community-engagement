@@ -1,0 +1,5 @@
+name: "test case"
+org: "org"
+token: "token"
+teams:
+  - "team"

@@ -1,0 +1,4 @@
+org: "vmware-tanzu"
+teams:
+  - "tce-owners"
+  - "tce-releng"

@@ -1,0 +1,19 @@
+---
+name: velero
+org: vmware-tanzu
+repos:
+  - velero
+  - velero-plugin-for-aws
+  - velero-plugin-for-gcp
+  - velero-plugin-for-microsoft-azure
+  - helm-charts
+devs:
+  - ashish-amarnath
+  - carlisia
+  - jonasrosland
+  - michmike
+  - nrb
+  - zubron
+  - dsu-igeek
+teams:
+  - velero-authors
